@@ -4,7 +4,7 @@
 🎓 Bachelor’s degree in **Computer Science – UNIFAJ**  
 📚 Postgraduate student in **Full Stack Development – FIAP + Alura**
 
-I am a technology professional transitioning into **Full Stack Development**, with a strong academic foundation in Computer Science and experience in mission-critical corporate environments. I am currently focused on building full stack web applications using modern technologies and best practices.
+I am a technology professional transitioning into **Full Stack Development**, with a strong academic foundation in Computer Science and experience in mission-critical corporate environments. I am currently focused on building full stack web applications using modern technologies and practices used on a daily basis.
 
 ---
 
