@@ -76,12 +76,9 @@ To work as a **Junior Full Stack Developer**, continuously improving my technica
 ---
 
 **You can also find me on social media:**
-![[LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/viniciusgodoy-))
-
-## 📫 Contact
-
-- 📧 Email: **viniciusgodoy88@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/viniciusgodoy-](https://www.linkedin.com/in/viniciusgodoy-)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniciusgodoy88)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusgodoy-)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusgodoy88@gmail.com)
 
 ---
 
