@@ -76,7 +76,7 @@ To work as a **Junior Full Stack Developer**, continuously improving my technica
 ---
 
 **You can also find me on social media:**
-![[LinkedIn](https://www.linkedin.com/in/viniciusgodoy-)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![[LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/viniciusgodoy-))
 
 ## 📫 Contact
 
