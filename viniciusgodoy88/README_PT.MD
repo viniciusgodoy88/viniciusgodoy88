@@ -1,19 +1,19 @@
-# 👋 Hi, I'm Vinicius Godoy
+# 👋 Olá, Eu sou Vinicius Godoy
 
-💻 **Junior Full Stack Developer** | Career Transition  
-🎓 Bachelor’s degree in **Computer Science – UNIFAJ**  
-📚 Postgraduate student in **Full Stack Development – FIAP + Alura**
+💻 **Desenvolvedor Full Stack Júnior ** | Transição de Carreira  
+🎓 Bacharel em **Ciência da Computação – UNIFAJ**  
+📚 Estudante de Pós graduação em **Desenvolvedor Full Stack – FIAP + Alura**
 
-I am a technology professional transitioning into **Full Stack Development**, with a strong academic foundation in Computer Science and experience in mission-critical corporate environments. I am currently focused on building full stack web applications using modern technologies and practices used on a daily basis.
+Sou um profissional de tecnologia em transição para o **Desenvolvimento Full Stack**, com sólida formação acadêmica em Ciência da Computação e experiência em ambientes corporativos de missão crítica. Atualmente, meu foco é a construção de aplicações web full stack utilizando tecnologias e práticas modernas empregadas no dia a dia.
 
 ---
 
-## 🚀 Technologies & Tools
+## 🚀 Tecnologias e Ferramentas
 
-### 🧠 Programming Languages
+### 🧠 Linguagens de Programação
 - JavaScript | TypeScript
 - Python
-- Java (basic)
+- Java (básico)
 
 ### 🌐 Front-end
 - React
@@ -25,57 +25,57 @@ I am a technology professional transitioning into **Full Stack Development**, wi
 - REST APIs
 - MVC Architecture
 
-### 🗄️ Databases
+### 🗄️ Banco de Dados
 - MySQL
-- NoSQL (concepts)
+- NoSQL (conceitos)
 
-### 🔧 DevOps & Cloud
+### 🔧 DevOps & Nuvem
 - Git | GitHub
-- Docker (fundamentals)
-- CI/CD (concepts)
-- AWS (Cloud Practitioner – fundamentals)
+- Docker (fundamentos)
+- CI/CD (conceitos)
+- AWS (Cloud Practitioner – fundamentos)
 
-### 🖥️ Systems & Other Skills
+### 🖥️ Sistemas e outras habilidades
 - Linux | Windows
-- Programming Logic
-- Data Structures (fundamentals)
-- Information Security basics
+- Lógica de Programação
+- Estrutura de Dados (fundamentos)
+- Segurança da Informação
 
 ---
 
-## 🎓 Education
+## 🎓 Formação
 
-- **Postgraduate Certificate in Full Stack Development**  
-  *FIAP + Alura* — *In progress*  
+- **Pós Graduação em Desenvolvedor Full Stack **  
+  *FIAP + Alura* — *Em andamento*  
   - React, Next.js, Node.js, TypeScript  
   - REST APIs, databases  
   - Testing, CI/CD, DevOps, Cloud  
 
-- **Bachelor’s Degree in Computer Science**  
-  *UNIFAJ* — Completed  
+- **Bacharel em Ciência da Computação**  
+  *UNIFAJ* — Concluido  
 
 ---
 
 ## 📌 Career Goal
 
-To work as a **Junior Full Stack Developer**, continuously improving my technical skills, contributing with clean and well-structured code, and learning from experienced development teams.
+Meu objetivo é trabalhar como **Desenvolvedor Full Stack Júnior**, aprimorando continuamente minhas habilidades técnicas, contribuindo com código limpo e bem estruturado e aprendendo com equipes de desenvolvimento experientes.
 
 ---
 
-## 📂 Projects
+## 📂 Projetos
 
-🔹 This profile includes projects focused on:
-- Programming fundamentals
-- Full Stack web development
+🔹Este perfil inclui projetos focados em:
+- Fundamentos de programação
+- Programação web full stack
 - REST APIs
-- Front-end and back-end integration
-- Clean code and best practices
+- Integração front-end e back-end
+- Código Limpo
 
-*(Projects are constantly evolving 🚧)*
+*(Projetos em constante evolução 🚧)*
 
 ---
 
-**You can also find me on social media:**
+**Voce pode me achar através das redes sociais abaixo:**
 </br>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniciusgodoy88)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusgodoy-)
