@@ -1,6 +1,6 @@
 # 👋 Olá, Eu sou Vinicius Godoy
 
-💻 **Desenvolvedor Full Stack Júnior ** | Transição de Carreira  
+💻 **Desenvolvedor Full Stack Júnior** | Transição de Carreira  
 🎓 Bacharel em **Ciência da Computação – UNIFAJ**  
 📚 Estudante de Pós graduação em **Desenvolvedor Full Stack – FIAP + Alura**
 
