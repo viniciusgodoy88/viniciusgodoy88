@@ -84,4 +84,4 @@ Meu objetivo é trabalhar como **Desenvolvedor Full Stack Júnior**, aprimorando
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/NaiveReception2033)
 ---
 
-⭐ Feel free to explore my repositories and follow my journey as a developer!
+⭐ Fique à vontade para explorar meus repositórios e acompanhar minha jornada como desenvolvedor!
